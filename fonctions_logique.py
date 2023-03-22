@@ -1,5 +1,3 @@
-# BACUS 12-92
-
 from constantes import *
 
 import random
