@@ -1,5 +1,3 @@
-# BACUS 12-92
-
 import Draft
 from PySide2 import QtCore, QtWidgets
 from PySide2.QtWidgets import (QApplication, QGridLayout,
