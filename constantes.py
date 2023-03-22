@@ -1,5 +1,3 @@
-# BACUS 12-92
-
 # taille du cube
 TAILLE = 3
 
