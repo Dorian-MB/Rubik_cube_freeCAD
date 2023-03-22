@@ -9,6 +9,9 @@ FACE = list
 MOUV = tuple
 
 ########################################################################################
+# NOTE :
+# Le But de ce projet etait de realisé les fonctions logique d'un rubik cube SANS utilisé numpy
+########################################################################################
 
 def generer_rubik_termine() -> RUBIK:
 	"""genere et renvoi un rubik cube fini
