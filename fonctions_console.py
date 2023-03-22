@@ -122,5 +122,6 @@ def saisie_mouvements():
 
 ########################################################################################
 
-rubik = generer_rubik_termine()
-afficher_rubik(rubik)
+if __name__ == "__main__":
+	rubik = generer_rubik_termine()
+	afficher_rubik(rubik)
